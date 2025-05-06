@@ -42,7 +42,7 @@ Clone and Run Locally
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Praveenlodhi1/portfolio.git
 cd portfolio
 Then open index.html in your browser.
 
